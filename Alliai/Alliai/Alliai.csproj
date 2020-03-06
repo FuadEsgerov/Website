@@ -9,10 +9,29 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.1" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Repository\Repository.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\sass\.sass-cache\9863ecefae601619269a32b4941e7b84b0edf77b\about.scssc" />
+    <None Include="wwwroot\sass\.sass-cache\9863ecefae601619269a32b4941e7b84b0edf77b\account.scssc" />
+    <None Include="wwwroot\sass\.sass-cache\9863ecefae601619269a32b4941e7b84b0edf77b\blog.scssc" />
+    <None Include="wwwroot\sass\.sass-cache\9863ecefae601619269a32b4941e7b84b0edf77b\cart.scssc" />
+    <None Include="wwwroot\sass\.sass-cache\9863ecefae601619269a32b4941e7b84b0edf77b\checkout.scssc" />
+    <None Include="wwwroot\sass\.sass-cache\9863ecefae601619269a32b4941e7b84b0edf77b\contact.scssc" />
+    <None Include="wwwroot\sass\.sass-cache\9863ecefae601619269a32b4941e7b84b0edf77b\error_track.scssc" />
+    <None Include="wwwroot\sass\.sass-cache\9863ecefae601619269a32b4941e7b84b0edf77b\faq.scssc" />
+    <None Include="wwwroot\sass\.sass-cache\9863ecefae601619269a32b4941e7b84b0edf77b\home_1.scssc" />
+    <None Include="wwwroot\sass\.sass-cache\9863ecefae601619269a32b4941e7b84b0edf77b\leave_review.scssc" />
+    <None Include="wwwroot\sass\.sass-cache\9863ecefae601619269a32b4941e7b84b0edf77b\listing.scssc" />
+    <None Include="wwwroot\sass\.sass-cache\9863ecefae601619269a32b4941e7b84b0edf77b\product_page.scssc" />
+    <None Include="wwwroot\sass\.sass-cache\9863ecefae601619269a32b4941e7b84b0edf77b\style.scssc" />
+    <None Include="wwwroot\sass\.sass-cache\9863ecefae601619269a32b4941e7b84b0edf77b\_mixin.scssc" />
+    <None Include="wwwroot\sass\.sass-cache\9863ecefae601619269a32b4941e7b84b0edf77b\_variables.scssc" />
   </ItemGroup>
 
 
