@@ -11,6 +11,9 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.SqlServer;
 using Repository.Data;
+using Repository.Repositories.AuthRepositories;
+using Repository.Repositories.ShoppingRepostitories;
+using AutoMapper;
 
 namespace Alliai
 {
@@ -27,10 +30,12 @@ namespace Alliai
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddAutoMapper(typeof(Startup));
             services.AddDbContext<AllaiaDbContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("Default"),
             x => x.MigrationsAssembly("Repository")));
-          
+            services.AddTransient<IAuthRepository, AuthRepository>();
+            services.AddTransient<IDepartmentRepository, DepartmentRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

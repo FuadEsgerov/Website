@@ -136,7 +136,6 @@ C:\Users\User\Desktop\Homework\Alliai\Alliai\bin\Debug\netcoreapp3.1\ru\Microsof
 C:\Users\User\Desktop\Homework\Alliai\Alliai\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\User\Desktop\Homework\Alliai\Alliai\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\User\Desktop\Homework\Alliai\Alliai\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\User\Desktop\Homework\Alliai\Alliai\obj\Debug\netcoreapp3.1\Alliai.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\User\Desktop\Homework\Alliai\Alliai\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Index.cshtml.g.cs
 C:\Users\User\Desktop\Homework\Alliai\Alliai\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
 C:\Users\User\Desktop\Homework\Alliai\Alliai\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Basket\_BasketTop.cshtml.g.cs
@@ -149,3 +148,8 @@ C:\Users\User\Desktop\Homework\Alliai\Alliai\obj\Debug\netcoreapp3.1\Razor\Views
 C:\Users\User\Desktop\Homework\Alliai\Alliai\obj\Debug\netcoreapp3.1\Razor\Views\Account\Confirm.cshtml.g.cs
 C:\Users\User\Desktop\Homework\Alliai\Alliai\obj\Debug\netcoreapp3.1\Razor\Views\TrackOrder\Index.cshtml.g.cs
 C:\Users\User\Desktop\Homework\Alliai\Alliai\obj\Debug\netcoreapp3.1\Razor\Views\Products\LeaveReview.cshtml.g.cs
+C:\Users\User\Desktop\Homework\Alliai\Alliai\bin\Debug\netcoreapp3.1\CryptoHelper.dll
+C:\Users\User\Desktop\Homework\Alliai\Alliai\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Menu\Default.cshtml.g.cs
+C:\Users\User\Desktop\Homework\Alliai\Alliai\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\User\Desktop\Homework\Alliai\Alliai\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Desktop\Homework\Alliai\Alliai\obj\Debug\netcoreapp3.1\Alliai.MvcApplicationPartsAssemblyInfo.cache
